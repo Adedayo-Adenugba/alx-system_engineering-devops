@@ -1,1 +1,1 @@
-this is a readme file
+this readme is for the 0-helloworld project
